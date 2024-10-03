@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**ExtraBits42/ExtraBits42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am Yachen Zhong. I'm currently pursuing my MECS at Nanjing University.
 
-Here are some ideas to get you started:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ExtraBits42&show_icons=true" style="height: 150px;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraBits42&layout=compact" style="height: 150px;"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I'm working on MLsys;
+- 🌱 I'm learning and will continuously study Python, CUDA, LLM and mathematics, etc;
+- ⚡ Fun fact: Running, Music, Sleep and Delicious food;
+
+I firmly believe that by maintaining consistent daily efficient work, even the toughest challenges can be incorporated into our routine and cease to be overwhelming. I adhere to the principles of gradual accumulation and long-termism.
