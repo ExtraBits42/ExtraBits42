@@ -5,7 +5,7 @@ I am Yachen Zhong. I'm currently pursuing my MECS at Nanjing University.
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ExtraBits42&show_icons=true" style="height: 140px;"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExtraBits42&layout=compact" style="height: 140px;"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExtraBits42&theme=react&days=30" style="height: 200px;"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ExtraBits42&theme=react&days=30" style="height: 208px;"/>
 </div>
 
 - 🔭 I'm working on MLsys;
