@@ -8,7 +8,7 @@ I am Yachen Zhong. I'm currently pursuing my MECS at Nanjing University.
 </div>
 
 - 🔭 I'm working on MLsys;
-- 🌱 I'm learning and will continuously study Python, CUDA, LLM and mathematics, etc;
+- 🌱 I'm learning and will continuously study Python, CUDA, LLM and Mathematics, etc;
 - ⚡ Fun fact: Running, Music, Sleep and Delicious food;
 
 I firmly believe that by maintaining consistent daily efficient work, even the toughest challenges can be incorporated into our routine and cease to be overwhelming. I adhere to the principles of gradual accumulation and long-termism.
